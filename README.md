@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there 👋, My name is Guilherme
 
-<!--
-**guicarvalho/guicarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm backend developer
 
-Here are some ideas to get you started:
+### 💫 Liitle Bit More About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on Nilo Saúde
+- 🌱 I'm currently learning Distributed systems and microservices
+- 💬 Ask me about Python, Django and FastAPI
+- 📫 How to reach me? gui.ifsp11@gmail.com
+
+### 👥 Connect With Me
+
+<a href="https://linkedin.com/in/guicarvalho"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
