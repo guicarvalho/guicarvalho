@@ -4,7 +4,6 @@ I'm backend developer
 
 ### 💫 Liitle Bit More About Me
 
-- 🔭 I'm currently working on Koiketec
 - 🌱 I'm currently learning Distributed systems and microservices
 - 💬 Ask me about Python, Django and FastAPI
 - 📫 How to reach me? gui.ifsp11@gmail.com
